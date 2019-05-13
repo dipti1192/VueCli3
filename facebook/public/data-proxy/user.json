@@ -1,0 +1,83 @@
+{
+    "users": [
+        {
+            "name": "Marissa",
+            "lastName": "Mayer",
+            "dp": "/image/merrisa.jpg",
+            "userId": "Marissa.mayer",
+            "password": "12345",
+			"id": 1,
+            "followedUsers": [
+                "natgeo",
+                "tripoto"
+            ]
+        },
+        {
+            "name": "Eric",
+            "lastName": "Schmidt",
+            "dp": "/image/eric.jpg",
+            "userId": "eric.schmidt",
+            "password": "12345",
+			"id": 2,
+            "followedUsers": [
+                "natgeo",
+                "tripoto",
+                "younews"
+            ]
+        },
+        {
+            "name": "elon",
+            "lastName": "musk",
+            "dp": "/image/elon.png",
+            "userId": "elon.musk",
+            "password": "12345",
+			"id": 3,
+            "followedUsers": [
+                "yourstory",
+                "younews"
+            ]
+        },
+        {
+            "name": "Your Story",
+            "lastName": "",
+            "dp": "/image/yourstory.png",
+            "userId": "yourstory",
+            "password": "12345",
+			"id": 4,
+            "followedUsers": ["yourstory"]
+        },
+        {
+            "name": "National Geopraphic",
+            "lastName": "",
+            "dp": "/image/yourstory.png",
+            "userId": "natgeo",
+            "password": "12345",
+			"id": 5,
+            "followedUsers": [
+                "natgeo"
+            ]
+        },
+        {
+            "name": "Tripoto",
+            "lastName": "",
+            "dp": "/image/yourstory.png",
+            "userId": "tripoto",
+            "password": "12345",
+			"id": 6,
+            "followedUsers": [
+                "tripoto"
+            ]
+        },
+        {
+            "name": "You News",
+            "lastName": "",
+            "dp": "/image/yourstory.png",
+            "userId": "younews",
+            "password": "12345",
+			"id": 7,
+            "followedUsers": [
+                "younews"
+            ]
+        }
+    ]
+}

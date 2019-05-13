@@ -1,0 +1,116 @@
+{
+    "feeds": [
+        {
+            "id": 1,
+            "type": "news media",
+            "userId": 4,
+            "title": "It's the end of an era as former Google chief Eric Schmidt leaves Alphabet's board",
+            "image": "images/yourstory/feed_1.png",
+            "description": "Google founders Larry Page and Sergey Brin recruited the proven businessman and skilled software engineer as chief executive in 2001, bringing a mature hand to the helm of the then three-year-old internet search company."
+        },
+        {
+            "id": 2,
+            "type": "news media",
+            "userId": 4,
+            "title": "India is a challenging market in short term: Apple CEO Tim Cook",
+            "image": "images/yourstory/feed_2.png",
+            "description": "Cook, during the fiscal year 2019 second quarter earnings conference call on Tuesday, said that while India is a very important market in the long term, it is a very challenging market in the short term."
+        },
+        {
+            "id": 3,
+            "type": "news media",
+            "userId": 4,
+            "title": "[Funding alert] BlackBuck raises $150 M in Series D led by Goldman Sachs Investment Partners and Accel",
+            "image": "images/yourstory/feed_3.png",
+            "description": "The company will deploy these funds to penetrate deeper into the market, by on boarding new trucking partners along the existing as well as new transportation corridors. The company will invest heavily in product and data sciences capabilities, to enable more efficient freight matching processes."
+        },
+        {
+            "id": 4,
+            "type": "news media",
+            "userId": 4,
+            "title": "A fresh design for Facebook, interoperable Messenger app, and business catalogue on WhatsApp: key announcements from Day 1 of F8",
+            "image": "images/yourstory/feed_4.png",
+            "description": "The biggest highlight was the new redesign to Facebook. In a bid to ensure that Facebook is a place for s to connect with people sharing similar passions, the social media platform has put Groups at the centre of the redesign"
+        },
+        {
+            "id": 5,
+            "type": "news media",
+            "userId": 7,
+            "title": "Big diplomatic win for India, Masood Azhar declared international terrorist as China lifts hold",
+            "image": "images/younews/feed_1.jpg",
+            "description": "Home Photos DNA/WION was the first to break the news. Siddhant Sibal May 1, 2019, 06:41 PM IST In a major diplomatic victory for India, the man behind several terror attacks in the country including Pulwama terror attack, Masood Azhar has finally been listed as an international terrorist by the United Nation security council's 1267 committee. China earlier on Wednesday removed its hold on the listing of Masood Azhar, the chief of Pakistan based and united nations listed terror group."
+        },
+        {
+            "id": 6,
+            "type": "news media",
+            "userId": 7,
+            "title": "PM Modi's Efforts Led To UN Ban On Masood Azhar, Says Amit Shah",
+            "image": "images/younews/feed_2.jpg",
+            "description": "New Delhi: Bharatiya Janata Party (BJP) president Amit Shah has hailed Prime Minister Narendra Modi after the United Nations (UN) designated terror organisation Jaish-e-Mohammad's chief Masood Azhar a global terrorist and asserted that this is why 'India needs a strong and decisive leader'. 'That is why India needs a strong & decisive leader. Grateful to PM Narendra Modi and his diplomatic efforts that led to the UN designating Masood Azhar as a global terrorist. It was long over due."
+        },
+        {
+            "id": 7,
+            "type": "travel",
+            "userId": 6,
+            "title": "Here Are 20 Hilarious Memes That Every Indian Traveller Will Relate To",
+            "image": "images/tripoto/feed_1.png",
+            "description": "Books tickets from Delhi to Mumbai at ₹1,999, suffers in the heat because the AC is obviously not working. Thank you misleading adverts!"
+        },
+        {
+            "id": 8,
+            "type": "travel",
+            "userId": 6,
+            "title": "Stunning Luxury Hotels In Mumbai",
+            "image": "images/tripoto/feed_2.png",
+            "description": "If you're planning to travel to Mumbai to explore the largest city in India, then you must consider the following hotels in Mumbai for a great vacation. The handpicked collection contains not just 5 Star Hotels in Mumbai but also contains some of the top hotels in Mumbai. After a day filled with sightseeing, you'd want to come back to a comfortable place and for that reason alone we have put together this collection to help you with your Mumbai hotel bookings"
+        },
+        {
+            "id": 9,
+            "type": "travel",
+            "userId": 6,
+            "title": "20 Luxurious Hotels in Goa for your Next Goa Trip",
+            "image": "images/tripoto/feed_3.png",
+            "description": "Hola, wanderer! Planning your next journey already? Well, here’s where to get started. With the widest range of hotels, guesthouses, homestays, resorts, hideaways and hostels, Tripoto lets you take your pick from 30,000+ properties in India and millions abroad."
+        },
+        {
+            "id": 10,
+            "type": "photography",
+            "userId": 5,
+            "title": "Airport Security (NAT GEO INVESTIGATES)",
+            "image": "images/natgeo/feed_1.jpg",
+            "description": "Seizing drugs, controlling immigration and putting safety above all, Colombia’s Airport Security and Anti-Narcotics unit runs one of the busiest airports in the world. Watch them in action, tonight at 11 PM on National Geographic."
+        },
+        {
+            "id": 11,
+            "type": "photography",
+            "userId": 5,
+            "title": "Hostile Planet",
+            "image": "images/natgeo/feed_2.jpg",
+            "description": "Dive beneath the surface of the Earth's vast oceans to uncover a world of extremes, from crushing depths to stormy coasts and crowded reefs! How does the marine life exist in this dangerous habitat? Watch tonight at 8 PM on Hostile Planet: Oceans on National Geographic and Hotstar."
+        },
+        {
+            "id": 12,
+            "type": "photography",
+            "userId": 5,
+            "title": "Why travel, when you can explore",
+            "image": "images/natgeo/feed_3.jpg",
+            "description": "Board the Le Lyrial for a cruise through Montevideo to Ushuaia, and discover chinstrap penguins and leopard seals. Discover the Antarctic Peninsula, the realm of the unexpected!"
+        },
+        {
+            "id": 13,
+            "type": "photography",
+            "userId": 5,
+            "title": "Egypt with the World’s Greatest Explorer",
+            "image": "images/natgeo/feed_4.png",
+            "description": "After weeks of adventure Ran and Joe have finally reached the end of their journey. See Joe skirt the crocodile infested waters of Lake Nasser and try his hand at sailing a traditional Egyptian Felucca! Watch Egypt with the World’s Greatest Explorer, today at 5PM. "
+        },
+        {
+            "id": 14,
+            "type": "photography",
+            "userId": 5,
+            "title": "Brain Games",
+            "image": "images/natgeo/feed_5.jpg",
+            "description": "The Emmy® nominated Brain Games is full of interactive illusions, challenges and experiments that showcase the extraordinary ways we see, process and think about the world around us."
+        }
+    ]
+}
